@@ -1,5 +1,4 @@
-from nis import match
-from socket import CAN_BCM_TX_SETUP
+
 
 
 num=int(input('entera number'))
@@ -18,7 +17,9 @@ match num:
         print('friday')
     case 7:
         print('saturday')
-    case: # char act as a default,if none of the cases match
+    case 8: # char act as a default,if none of the cases match
         print('invaild data')
-      
+    
+
+
 
