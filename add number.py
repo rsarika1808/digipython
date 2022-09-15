@@ -7,5 +7,7 @@ while True:
     else:
         break
     print('total =',ans)
+    
+    
 
         
