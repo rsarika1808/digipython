@@ -44,4 +44,5 @@ from string import punctuation
 for p in punctuation:
     str=str.replace(p,'')
     print(str)
+    
 
