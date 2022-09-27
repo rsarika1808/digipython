@@ -1,0 +1,3 @@
+import smtplib
+gmail_user_='your_email@gmail'.
+gmail_password ='
