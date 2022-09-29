@@ -43,7 +43,7 @@ print("".join(words))
 #ques.no 9
 
 print("print multiline string\ using single print")
-#or
+#or 
 data =""
 while True:
     line =input()
