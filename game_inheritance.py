@@ -1,8 +1,7 @@
 import keyword
 from random import randint
-from turtle import Screen
-from urllib.parse import parse_qs
-import pgzrun
+
+
 
 WIDTH =800
 HEIGHT =500
